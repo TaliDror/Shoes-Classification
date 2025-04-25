@@ -1,6 +1,5 @@
-# Shoes-Classification
 
-# Shoe Matching CNN
+# Shoe Pair Classification CNN
 
 This repository contains the PyTorch implementation of convolutional neural networks for classifying or matching left and right shoe pairs from images.
 
