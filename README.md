@@ -29,7 +29,9 @@ Clone the repository:
 ## Dataset
 
 To obtain the dataset and pretrained model checkpoints, download from google drive: 
+
 data - https://drive.google.com/drive/u/1/folders/1WOUzqIfzjmZzLhLWYOUnhq9Dt2YgHNTv
+
 checkpoints - https://drive.google.com/drive/u/1/folders/1xya8cXE15m7g8Ypck6-Cg4ZfjYTTp9Zm
 
 After downloading:
